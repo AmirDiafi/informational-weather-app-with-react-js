@@ -1,6 +1,279 @@
+/* Start Global */
 
-img.wait{
-    width:200px;
-    height: 200px;
-    margin: 50px auto
+*{
+    user-select: none;
 }
+
+button:disabled {
+    cursor: not-allowed;
+}
+
+.row{
+    margin-right: 0 !important;
+    margin-left: 0 !important
+}
+
+.show {
+    display: block !important
+}
+
+hr {
+    border: none !important;
+    background :linear-gradient(90deg, rgba(0, 0, 0, .2), #FFF,  rgba(0, 0, 0, .2));
+    height: 1px !important;
+    width:100%;
+    box-shadow: 0 3px 3px rgba(0, 0, 0, .7);
+}
+
+/* End Global */
+
+/* Statrt custom the show in home */
+
+.home-container {
+    color :#FFF;
+}
+
+.home-container .more {
+    position: fixed;
+    top:0;left:0;
+    width:100%;
+    height: 100%;
+    background: rgba(0, 0, 0, .7);
+    display: none;
+    z-index: 2;
+    transition: all .3s linear
+}
+
+.home-container .more .form{
+    width: 300px;
+    height: 150px;
+    background: #FFF;
+    border: 1px solid #333;
+    border-radius: 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.home-container .form span.close {
+    width:30px;
+    height:30px;
+    position: absolute;
+    top:-10px;
+    left: -10px;
+    text-align: center;
+    cursor: pointer;
+    color: #333;
+    background: #FFF;
+    border-radius: 100%;
+    opacity: 1
+}
+
+.home-container .more .form form {
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-container .more .form form input {
+    margin: 0;
+    padding: 5px;
+    height: 40px;
+    border-radius: 5px 0 0 5px;
+    outline: none;
+    border: none;
+    border: 1px solid rgb(3, 0, 44);
+    border-right: none
+}
+
+.home-container .more .form form button {
+    font-weight: bold;
+    outline: none;
+    width:150px;
+    height: 40px;
+    border-radius: 0 5px 5px 0;
+    transition: all .3s linear;
+    border: none;
+    border: 1px solid rgb(3, 0, 44);
+    border-left: none;
+    color :#FFF;
+    background: rgb(3, 0, 44);
+}
+
+.home-container .more .form form button:disabled {
+    color :#000;
+    background: #eee;
+}
+
+.home-container .more .form form button img.wait-btn {
+    display: block;
+    width: 20px;
+    height: 20px;
+    margin: 0 auto
+}
+
+.navbar-home {
+    padding: 10px;
+    background: rgba(0, 0, 0, .3);
+    text-align: center;
+    position: fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height: 70px;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.navbar-home h2 {
+    margin-left: 20px
+}
+
+.navbar-home h2 span {
+    font-size: 15px;
+    margin-left: 10px
+}
+
+.navbar-home .wait-navabar img {
+    width:40px;
+    height: 40px;
+    display:block;
+    margin: 0 auto
+}
+
+.navbar-home .icon-bar {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 20px;
+    width:50px;
+    height: 50px;
+    font-size: 25px;
+    color: #FFF;
+    cursor: pointer
+}
+
+
+.home-container div.wait-global {
+    margin: 0 auto;
+    height: 100vh
+}
+
+.home-container div.wait-global img {
+    width: 80px;
+    height: 80px;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
+
+.home-container div.display {
+    margin-top: 70px;
+}
+
+.home-container div.display .weather {
+    text-align: center
+}
+
+.home-container div.display .weather .day {
+    margin: 20px 20px 0
+}
+
+.home-container div.display .weather .day img{
+    width: 80px;
+    height: 80px;
+}
+
+.home-container div.display .weather .day span.date{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.home-container div.display .weather h2.temp{
+    font-size: 80px;
+    text-align: center;
+}
+
+.home-container div.display .weather h2.temp span {
+    font-size: 20px;
+    margin: 0 10px
+}
+
+
+.home-container div.display .weather p {
+    font-size: 20px;
+    font-style: italic
+}
+
+.home-container div.display .weather h2.temp span svg {
+    font-size: 13px
+}
+
+.next-days {
+    /* display: flex; */
+    justify-content: right;    
+}
+
+.next-days .day {
+    margin: -10px auto;
+    text-align: center;
+    font-size: 18px;
+}
+
+.next-days{
+    padding: 30px 0;
+}
+
+.next-days .day img {
+    width:50px;
+    height: 50px;
+    margin-right: -15px
+}
+
+.next-days .day .date {
+    margin: 0 10px
+}
+
+.next-days .day .temp span {
+    margin: 0 5px
+}
+
+.next-days .day .temp span > svg {
+    font-size: 13px;
+}
+
+.main {
+    padding: 30px 0
+}
+
+.main .item {
+    /* border: 1px solid #eee; */
+    padding:5px
+}
+
+.main .item span.desc {
+    font-size: 20px;
+}
+
+.main .item span.desc svg {
+    font-size: 30px;
+    margin-left: 5px
+}
+
+.map {
+    padding: 50px 0
+}
+
+.map img {
+    width:100%;
+    display: block;
+    height: 300px;
+    background: rgba(0, 0, 0, .3)
+}
+
+
