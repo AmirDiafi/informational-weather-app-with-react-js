@@ -1,0 +1,238 @@
+/* Global */
+.hidden {
+    display: none !important
+}
+
+.isButton {
+    position: relative;
+    overflow: hidden
+}
+
+.isButton span.ripple {
+    background: rgba(196, 197, 255, 0.596);
+    border-radius: 100%;
+    position: absolute;
+    transform: scale(0);
+    animation: ripple .5s ease-in-out;
+}
+
+@keyframes ripple {
+    to {
+        transform: scale(1);
+    }
+}
+
+nav {
+    padding: 10px;
+    background: rgb(26 14 49);
+    color: #FFF;
+}
+
+nav header {
+    display: flex !important;
+    align-items: center;
+    margin: 0;
+    position: relative;
+    height: 150px;
+    padding: 20px 10px;
+}
+
+nav .image {
+    margin: 0 10px 0
+}
+
+nav .image img {
+    width:100px;
+    height: 100px;
+    border-radius: 100%;
+    padding: 5px;
+    border: 5px solid rgb(216, 216, 216, .5)
+}
+
+nav h3 {
+    position: absolute;
+    right: 10px;
+    top: 10px
+}
+
+nav ul.info {
+    margin-right: 50px
+}
+
+nav ul.info li {
+    padding: 0 10px;
+}
+
+nav ul.info li:first-child {
+    font-size: 20px;
+}
+
+nav ul.info li:last-child {
+    font-size: 15;
+    color: rgb(216, 216, 216);
+    font-weight: 100;
+}
+
+nav .btn-share {
+    transition: all .1s ease;
+    position: absolute;
+    right: 10px;
+    bottom: 0;
+    color :#FFF;
+    border-radius: 0;
+    padding: 5px;
+    background: rgb(26 14 49);
+    border: 7px solid rgba(0,0,0,.5);
+    outline: none !important;
+    font-size: 17px
+}
+
+nav .share-options {
+    position: absolute;
+    right: 105px;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0,0,0,.5);
+    transition: all .1s ease;
+    padding: 6px
+}
+
+nav .share-options button {
+    background: rgb(26 14 49);
+    border: none;
+    color: #FFF;
+    border-radius: 0;
+    outline: none !important;
+    font-size: 17px;
+    position: relative
+}
+
+nav .share-options button .copied-msg {
+    position: absolute;
+    top:-60px;
+    left:-20px;
+    padding: 10px;
+    background: rgba(0,0,0,.5);
+    color: #FFF;
+    border-radius: 5px;
+}
+
+nav .share-options button .copied-msg::after{
+    content:'';
+    position: absolute;
+    border: 10px solid;
+    border-color: transparent;
+    border-top-color: rgba(0,0,0,.5);
+    bottom:-20px;
+    left:50%;
+    transform: translateX(-50%);
+    background: none
+}
+
+nav .share-options button:nth-child(2) {
+    margin: 0 6px;
+}
+
+nav .share-options button:hover {
+    color: #FFF
+}
+
+nav .share-options button svg {
+    width:100%;
+    height:100%
+}
+
+nav .main-routers {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px
+}
+
+nav .main-routers a {
+    margin: 0 5px;
+    color: rgb(216, 216, 216)
+}
+
+nav hr {
+    margin-top:0;
+    margin-bottom:0;
+    border:none !important;
+    height:1px;
+    background: linear-gradient(90deg, rgba(0,0,0,.5),rgb(216, 216, 216), rgba(0,0,0,.5))
+}
+
+.main-routers a:hover {
+    color: #FFF
+}
+
+.main-routers a.active {
+    text-decoration: underline;
+    color: #FFF
+}
+
+.links {
+    padding: 10px;
+    margin-top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.links a {
+    cursor: pointer;
+    color: rgb(26 14 49);
+    font-weight: 500;
+    padding: 5px 5px;
+    text-decoration: none;
+    width: 90px;
+    transition: all .1s ease;
+    text-align: center;
+}
+
+.links a:hover {
+    text-decoration: underline;
+    color: rgb(26 14 49);
+}
+
+.links a.active {
+    color: #FFF;
+    background: rgb(26 14 49);
+    text-decoration: underline
+}
+
+
+@media(max-width: 650px) {
+    nav h3 {
+        font-size: 15px;
+    }
+
+    ul.info li:first-child {
+        font-size: 15px;
+    }
+    
+    ul.info li:last-child {
+        font-size: 13;
+        color: rgb(216, 216, 216);
+        font-weight: 100;
+    }
+
+    nav .btn-share {
+        font-size: 13px
+    }
+    
+    nav .share-options{
+        right: 90px
+    }
+
+    nav .share-options button {
+        font-size: 13px
+    }
+
+    nav .share-options button .copied-msg {
+        left: -10px
+    }
+    
+}
