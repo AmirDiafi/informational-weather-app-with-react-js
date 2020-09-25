@@ -1,495 +1,495 @@
 [
     {
         "id":1,
-        "date":"Sep 15, 2020",
+        "date":"2019",
         "type": "css",
         "new": false,
         "img": "responsivewitoutframework.jpeg",
         "logo": "css.png",
         "title": "Responsive Witout Framework",
         "pathname": "responsivewitoutframework",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
         "source_code": "https://github.com/AmirDiafi/Responsive-without-framework"
 
     },
     {
         "id":2,
-        "date":"Sep 15, 2020",
+        "date":"2019",
         "type": "css",
         "img": "librarytemplate.png",
         "logo": "css.png",
         "title": "librarytemplate",
         "pathname": "Library Template",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
         "new": false,
-        "source_code": "https://github/AmirDiafi/Library-template"
+        "source_code": "https://github.com/AmirDiafi/Library-template"
     },
     {
         "id":3,
-        "date":"Sep 15, 2020",
+        "date":"2019",
         "type": "css",
         "img": "socialnetworkapptemplate.jpg",
         "logo": "css.png",
         "title": "Social Network App Template",
         "pathname": "socialnetworkapptemplate",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
         "new": false,
-        "source_code": "https://github/AmirDiafi"
+        "source_code": "https:/github.com/AmirDiafi/Social-network-app-template"
     },
     {
         "id":4,
-        "date":"Sep 15, 2020",
+        "date":"2019",
         "type": "css",
         "new": false,
         "img": "teslamotors.png",
         "logo": "css.png",
         "title": "Tesla Motors",
         "pathname": "teslamotors",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/Tesla-motors"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/Tesla-motors"
     },
     {
         "id":5,
-        "date":"Sep 15, 2020",
+        "date":"2019",
         "type": "css",
         "img":"responsive-01.jpg",
         "logo": "css.png",
         "title": "Responsive With Bootstrap #01",
         "pathname": "responsive-01",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
         "new": false,
-        "source_code": "https://github/AmirDiafi/Responsive-100"
+        "source_code": "https://github.com/AmirDiafi/Responsive-100"
     },
     {
         "id":6,
-        "date":"Sep 15, 2020",
+        "date":"2019",
         "type": "css",
         "img":"responsive-02.jpg",
         "logo": "css.png",
         "title": "Responsive With Bootstrap #02",
         "pathname": "responsive-02",
         "new": false,
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/Responsive-100-2"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/Responsive-100-2"
     },
     {
         "id":7,
-        "date":"Sep 15, 2020",
+        "date":"2019",
         "type": "css",
         "img":"responsive-03.jpg",
         "logo": "css.png",
         "title": "Responsive With Bootstrap #03",
         "pathname": "responsive-03",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
         "new": false,
-        "source_code": "https://github/AmirDiafiResponsive-100-3"
+        "source_code": "https://github.com/AmirDiafiResponsive-100-3"
     },
     {
         "id":8,
-        "date":"Sep 15, 2020",
+        "date":"2019",
         "type": "css",
         "new": false,
         "img": "mazal.jpeg",
         "logo": "css.png",
         "title": "Template",
         "pathname": "template",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/Template"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/Template"
     },
     {
         "id":9,
-        "date":"Sep 15, 2020",
+        "date":"2019",
         "type": "css",
         "new": false,
         "img": "csstricks.png",
         "logo": "css.png",
         "title": "CSS Tricks",
         "pathname": "csstricks",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/css-tricks"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/css-tricks"
     },
     {
         "id":10,
-        "date":"Sep 16, 2020",
+        "date":"2019",
         "type": "css",
         "new": false,
         "img": "dealwithsass.png",
         "logo": "css.png",
         "title": "Deal With SASS",
         "pathname": "dealwithsass",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/project-with-sass"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/project-with-sass"
     },
     {
         "id":11,
-        "date":"Sep 16, 2020",
+        "date":"2019",
         "type": "css",
         "new": false,
         "img": "dealwithpugjs.jpeg",
         "logo": "css.png",
         "title": "Deal With PugJS",
         "pathname": "dealwithpugjs",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/deal-with-pugjs"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/deal-with-pugjs"
     },
     {
         "id":12,
-        "date":"Sep 16, 2020",
+        "date":"2019",
         "type": "javascript",
         "new": false,
         "img": "jstricks.jpeg",
         "logo": "javascript.png",
         "title": "JS Tricks",
         "pathname": "jstricks",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/js-tricks"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/js-tricks"
     },
     {
         "id":13,
-        "date":"Sep 16, 2020",
+        "date":"May 23, 2020",
         "type": "javascript",
         "new": true,
         "img": "mazal.jpeg",
         "logo": "javascript.png",
         "title": "Face Detection",
         "pathname": "facedetection",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/Face-Detection-Javascript"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/Face-Detection-Javascript"
     },
     {
         "id":14,
-        "date":"Sep 16, 2020",
+        "date":"Jul 12, 2020",
         "type": "javascript",
         "new": true,
         "img": "memorygame.jpg",
         "logo": "javascript.png",
         "title": "Memory Game",
         "pathname": "memorygame",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/memory-game-with-vanilla-javascript"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/memory-game-with-vanilla-javascript"
     },
     {
         "id":15,
-        "date":"Sep 16, 2020",
+        "date":"Jul 14, 2020",
         "type": "javascript",
         "new": true,
         "img": "vision-game.jpg",
         "logo": "javascript.png",
         "title": "Vision Game",
         "pathname": "visiongame",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/vision-game"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/vision-game"
     },
     {
         "id":16,
-        "date":"Sep 16, 2020",
+        "date":"Jul 16, 2020",
         "type": "javascript",
         "new": true,
         "img": "tictactoegame.jpg",
         "logo": "javascript.png",
         "title": "Tic Tac Toe Game",
         "pathname": "tictactoegame",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/tic-tac-toe-Game"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/tic-tac-toe-Game"
     },
     {
         "id":17,
-        "date":"Sep 16, 2020",
+        "date":"Jul 22, 2020",
         "type": "javascript",
         "new": true,
         "img": "webcomponentexample.png",
         "logo": "javascript.png",
         "title": "Web Component Example",
         "pathname": "webcomponentexample",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/web-components-example"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/web-components-example"
     },
     {
         "id":18,
-        "date":"Sep 16, 2020",
+        "date":"Aug 26, 2020",
         "type": "javascript",
         "new": false,
         "img": "wishlistapp.jpg",
         "logo": "javascript.png",
         "title": "WishList App",
         "pathname": "wishlistapp",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/WhishList-javascript-DOM"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/WhishList-javascript-DOM"
     },
     {
         "id":19,
-        "date":"Sep 16, 2020",
+        "date":"Apr 3, 2019",
         "type": "javascript",
         "new": false,
         "img": "appmusicforbillieeilish.jpg",
         "logo": "javascript.png",
         "title": "App Music For Billie Eilish",
         "pathname": "appmusicforbillieeilish",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/app-music-for-billie-eilish"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/app-music-for-billie-eilish"
     },
     {
         "id":20,
-        "date":"Sep 16, 2020",
+        "date":"Nov 15, 2019",
         "type": "javascript",
         "new": false,
         "img": "appmusic.jpg",
         "logo": "javascript.png",
         "title": "App Music Pure JS (Long Code)",
         "pathname": "appmusic",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/app-music-pure-javascript"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/app-music-pure-javascript"
     },
     {
         "id":21,
-        "date":"Sep 16, 2020",
+        "date":"Aug 12, 2020",
         "type": "javascript",
         "new": false,
         "img": "ajax-json.jpeg",
         "logo": "javascript.png",
         "title": "Deal With AJAX & JSON APIs",
         "pathname": "ajax-json",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/JSON_AJAX-EXAMPLE"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/JSON_AJAX-EXAMPLE"
     },
     {
         "id":22,
-        "date":"Sep 16, 2020",
+        "date":"Aug 18, 2020",
         "type": "javascript",
         "new": true,
         "img": "spa.jpeg",
         "logo": "javascript.png",
         "title": "Single Page Application Router (SPA)",
         "pathname": "spa",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/single-page-application-router-Pure-JS"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/single-page-application-router-Pure-JS"
     },
     {
         "id":23,
-        "date":"Sep 16, 2020",
+        "date":"Aug 5, 2020",
         "type": "javascript",
         "new": true,
         "img": "customvideo.jpg",
         "logo": "javascript.png",
         "title": "Custom Video and SPA",
         "pathname": "customvideo",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/single-page-application-and-custum-video-vanilla-javascript"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/single-page-application-and-custum-video-vanilla-javascript"
     },
     {
         "id":24,
-        "date":"Sep 16, 2020",
+        "date":"2019",
         "type": "jquery",
         "new": false,
         "img": "jquerytricks.jpeg",
         "logo": "jquery.png",
         "title": "JQuery Tricks",
         "pathname": "jquerytricks",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/jQuery-tricks"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/jQuery-tricks"
     },
     {
         "id":25,
-        "date":"Sep 16, 2020",
+        "date":"2019",
         "type": "jquery",
         "new": false,
         "img": "jquery-01.jpg",
         "logo": "jquery.png",
         "title": "Project With Jquery #01",
         "pathname": "jquery-01",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/jQuery-project-1"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/jQuery-project-1"
     },
     {
         "id":26,
-        "date":"Sep 16, 2020",
+        "date":"2019",
         "type": "jquery",
         "new": false,
         "img": "jquery-02.jpg",
         "logo": "jquery.png",
         "title": "Project With Jquery #02",
         "pathname": "jquery-02",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/jQuery-project-2"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/jQuery-project-2"
     },
     {
         "id":27,
-        "date":"Sep 16, 2020",
+        "date":"2019",
         "type": "jquery",
         "new": false,
         "img": "jquerytricks.jpeg",
         "logo": "jquery.png",
         "title": "Project With Jquery #03",
         "pathname": "jquery-#03",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/jQuery-project-3"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/jQuery-project-3"
     },
     {
         "id":28,
-        "date":"Sep 16, 2020",
+        "date":"Dec 14, 2019",
         "type": "react",
         "new": false,
         "img": "mazal.jpeg",
         "logo": "react.jpg",
         "title": "Weather App #1",
         "pathname": "weatherapp#1",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/Weather-app"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/Weather-app"
     },
     {
         "id":29,
-        "date":"Sep 16, 2020",
+        "date":"May 17, 2020",
         "type": "react",
         "new": false,
         "img": "mazal.jpeg",
         "logo": "react.jpg",
         "title": "Weather App #2",
         "pathname": "weatherapp#2",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/weather-app-with-react-by-api"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/weather-app-with-react-by-api"
     },
     {
         "id":30,
-        "date":"Sep 16, 2020",
+        "date":"Aug 26, 2020",
         "type": "react",
         "new": true,
         "img": "weahterappadvenced.jpg",
         "logo": "react.jpg",
         "title": "Advenced Weather App",
         "pathname": "weatherappadvenced",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/informational-weather-app-with-react-js"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/informational-weather-app-with-react-js"
     },
     {
         "id":31,
-        "date":"Sep 16, 2020",
+        "date":"Dec 6, 2019",
         "type": "react",
         "new": false,
         "img": "mazal.jpeg",
         "logo": "react.jpg",
         "title": "E-Commerce",
         "pathname": "e-commerce",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/E-commerce-app-with-react"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/E-commerce-app-with-react"
     },
     {
         "id":32,
-        "date":"Sep 16, 2020",
+        "date":"Aug 15, 2020",
         "type": "react",
         "new": true,
         "img": "cardproducte-Shop.jpg",
         "logo": "react.jpg",
         "title": "Card Product E-Shop",
         "pathname": "cardproducte-Shop",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/card-product-e-shop-react-js"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/card-product-e-shop-react-js"
     },
     {
         "id":33,
-        "date":"Sep 16, 2020",
+        "date":"Sep 13, 2019",
         "type": "react",
         "new": false,
         "img": "mazal.jpeg",
         "logo": "react.jpg",
         "title": "ToDo App",
         "pathname": "todoapp",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/ToDo-App"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/ToDo-App"
     },
     {
         "id":34,
-        "date":"Sep 16, 2020",
+        "date":"Dec 16, 2019",
         "type": "react",
         "new": false,
         "img": "mazal.jpeg",
         "logo": "react.jpg",
         "title": "Crud App",
         "pathname": "crud",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/Crud-App"
+        "desc": "This is a web application, it is responsive 100% in all media decices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/Crud-App"
     },
     {
         "id":35,
-        "date":"Sep 16, 2020",
+        "date":"Sep 12, 2020",
         "type": "react",
         "new": true,
         "img": "soundcloudeclone.jpg",
         "logo": "react.jpg",
         "title": "SoundCloude Clone",
         "pathname": "soundcloudeclone",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/soundCloud-clone"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/soundCloud-clone"
     },
     {
         "id":36,
-        "date":"Sep 16, 2020",
+        "date":"Sep 17, 2020",
         "type": "react",
         "new": true,
         "img": "youtubeclone.png",
         "logo": "react.jpg",
         "title": "Youtube Clone",
         "pathname": "youtubeclone",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/youtube-clone-react-js"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/youtube-clone-react-js"
     },
     {
         "id":37,
-        "date":"Sep 16, 2020",
+        "date":"Sep 23, 2020",
         "type": "react",
         "new": true,
         "img": "tiktokclone.jpg",
         "logo": "react.jpg",
         "title": "Tik Tok Clone",
         "pathname": "tiktokclone",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/tik-tok-clone"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/tik-tok-clone"
     },
     {
         "id":38,
-        "date":"Sep 16, 2020",
+        "date":"Sep 13, 2020",
         "type": "react",
         "new": true,
         "img": "mazal.jpeg",
         "logo": "react.jpg",
         "title": "Entertainment App",
         "pathname": "entertainmentapp",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/entertainment-app-with-react"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/entertainment-app-with-react"
     },
     {
         "id":39,
-        "date":"Sep 16, 2020",
+        "date":"Dec 19, 2019",
         "type": "react",
         "new": false,
         "img": "mazal.jpeg",
         "logo": "react.jpg",
         "title": "Movies App",
         "pathname": "moviesapp",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/entertainment-app-with-react"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/entertainment-app-with-react"
     },
     {
         "id":40,
-        "date":"Sep 16, 2020",
+        "date":"Apr 25, 2020",
         "type": "nodejs",
         "new": true,
         "img": "mazal.jpeg",
         "logo": "nodejs.png",
         "title": "Online Shop With NodeJS",
         "pathname": "onlineshopwithnodejs",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/online-shop-with-Node-js"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/online-shop-with-Node-js"
     },
     {
         "id":41,
-        "date":"Sep 16, 2020",
+        "date":"Apr 13, 2020",
         "type": "nodejs",
         "new": true,
         "img": "socialnetworkforstudents.jpg",
         "logo": "nodejs.png",
         "title": "Social Network For Students",
         "pathname": "socialnetworkforstudents",
-        "desc": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. A dolor eos illo voluptas nisi. Aliquam rerum ullam enim quasi, dolor placeat, molestiae possimus in quia accusamus illum impedit laudantium? Delectus!",
-        "source_code": "https://github/AmirDiafi/watikah.com"
+        "desc": "This is a web application, it is responsive 100% in all media devices; and this app is unique for its siblings; this app makes for my portfolio; and its source code is on Github; to get it hit the button bellow.",
+        "source_code": "https://github.com/AmirDiafi/watikah.com"
     }
 ]

@@ -112,7 +112,11 @@ class Nav extends React.Component {
                     </audio>
                     <header>
                         <div className="image">
-                            <img src={Img} alt=""/>
+                            <img 
+				loading="lazy"
+				src={Img} 
+				alt=""
+			    />
                         </div>
                         <ul className="info list-unstyled">
                             <li>Amir Diafi</li>
@@ -173,7 +177,7 @@ class Nav extends React.Component {
                             ?'active islink isButton'
                             :'islink isButton'}
                             to='/'
-                            >General
+                            >Recent
                         </Link>
                         <Link 
                             className={

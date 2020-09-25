@@ -9,6 +9,7 @@ function Card(props) {
             <div className='cont'>
                 {props.data.new&&<span>New</span>}
                 <img 
+		    loading="lazy"
                     src={pathname.includes('/works/')
                     ?'../../media/images/'+props.data.img
                     :'media/images/'+props.data.img}
@@ -21,6 +22,7 @@ function Card(props) {
                     >
                         <p className='islink'>
                             <img 
+				loading="lazy"
                                 src={pathname.includes('/works/')
                                 ?'../../media/images/'+props.data.logo
                                 :'media/images/'+props.data.logo}

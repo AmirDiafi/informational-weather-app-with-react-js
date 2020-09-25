@@ -61,11 +61,14 @@ class About extends React.Component {
 		    I code 10 hrs 🕗 a day, sometimes 15-16 hrs 🕔.
                     <br/>
                     <br/>
-                    I enjoy make sometimes some video about JavaScript 
+                    I enjoy make sometimes some videos about JavaScript, 
                     it's all free; and this is happen on my 
-                     <a className='youtube' href="http://">
-                        <FaYoutube/> Arabic YouTube channel
-                    </a>,
+		    <a 
+                        href="https://www.youtube.com/channel/UCgbqyUzyD2IfqYoc0RcS2MA" 
+                        target="_blank"
+                	rel="noopener noreferrer">
+                	<FaYoutube/> Arabic YouTube channel
+            	    </a>,
                     writing some cheatsheets about JavaScript too.
                 </p>
                 <hr/>

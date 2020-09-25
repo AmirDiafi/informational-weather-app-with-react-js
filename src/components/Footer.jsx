@@ -19,7 +19,7 @@ function Footer() {
                 <FaLinkedin/>
             </a>
             <a 
-                href="https://youtube.com/channel/UCgbqyUzyD2lfqYocORcS2MA" 
+                href="https://www.youtube.com/channel/UCgbqyUzyD2IfqYoc0RcS2MA" 
                 target="_blank"
                 rel="noopener noreferrer">
                 <FaYoutube/>

@@ -8,11 +8,13 @@ function Profile(props) {
         <div className="profile">
             <header>
                 <img 
+		    loading="lazy"
                     src={'../media/images/'+data.img} 
                     alt=""
                 />
                 <div className="info">
                     <img 
+			loading="lazy"
                         className='logo'
                         src={'../media/images/'+data.logo} 
                         alt=""/>
