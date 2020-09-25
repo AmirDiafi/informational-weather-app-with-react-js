@@ -67,7 +67,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 "# informational-weather-app-with-react-js" 
-<<<<<<< HEAD
 "# personal-website" 
 "# personal-website" 
 "# personal-website" 
@@ -79,8 +78,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 "# PersonalSite" 
 "# PersonalSite" 
 # PersonalSite
-"# PersonalSite" 
-"# PersonalSite" 
-=======
->>>>>>> 6b6c59549bf46a63d1810e39f322a1b8b1666663
 "# PersonalSite" 

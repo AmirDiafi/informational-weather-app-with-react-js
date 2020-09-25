@@ -1,21 +1,18 @@
 import React from 'react'
 import './App.css'
-import Home from './components/Home'
-import {BsCodeSlash} from 'react-icons/bs'
+import Nav from './components/Nav'
+import Footer from './components/Footer'
+import Routers from './components/Routers'
+import {BrowserRouter as Router} from 'react-router-dom'
 
-class App extends React.Component {
-  render() { 
-    return ( 
-      <React.Fragment>
-        <div className="overlay"></div>
-        <Home />
-        <div className='footer-line'>
-          <BsCodeSlash /> ByAmir
-          <span></span>
-        </div>
-      </React.Fragment>
-     )
-  }
+function App() {
+  return (
+    <Router>
+      <Nav/>
+      <Routers/>
+      <Footer />
+    </Router>
+  )
 }
  
 export default App;
